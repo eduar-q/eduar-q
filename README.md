@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Íconos de Tecnología y Ciberseguridad -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/linux.svg" width="60" alt="Linux"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terminal.svg" width="60" alt="Terminal"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/shield.svg" width="60" alt="Security"/>
-</p>
+<!-- Barra de tecnologías e íconos -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github&theme=dark" />
+</a>
+
+<br><br>
 
 <!-- Texto animado estilo Opción 3 -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Linux+%7C+Defensive+Security;Python+%7C+Bash+%7C+Automation;System+Administration+%7C+Troubleshooting;Building+small+tools+for+real+problems" alt="Typing SVG" />
