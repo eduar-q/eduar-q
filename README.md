@@ -137,11 +137,9 @@ I document why the tool exists, what it checks, how it works and where its limit
 
 No hidden complexity. No unnecessary dependencies.
 
-
----
-
+```
 Principles
-
+```
 Understand before automating
 
 Observe before changing
@@ -153,9 +151,7 @@ Simplicity before unnecessary complexity
 Document what matters
 
 
-
----
-
+```
 Currently Exploring
 
 Linux system administration
