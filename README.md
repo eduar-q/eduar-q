@@ -164,10 +164,8 @@ Security automation with Python and Bash
 
 System troubleshooting and incident-oriented analysis
 ```
-
-
 ---
-```
+
 ### Selected Technologies
 
 <p align="center">
