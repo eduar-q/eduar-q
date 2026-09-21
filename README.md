@@ -96,7 +96,7 @@ Findings
 Recommendations
       ↓
 Report
-
+```
 Focus: Linux • Python • Security Review • Automation
 
 → View project
@@ -117,7 +117,7 @@ A small Linux tool built around a simple operational problem:
 The project compares a documented reference with the current system state and highlights discrepancies that require human review.
 
 It focuses on reducing uncertainty during system handover and administrative transition.
-
+```
 KNOWN
   ↓
 Documented Reference
@@ -129,7 +129,7 @@ Comparison
 Discrepancies
   ↓
 Human Review
-
+```
 The goal is not to decide what is "good" or "bad".
 
 The goal is to establish a clear starting point.
@@ -236,7 +236,7 @@ Focus: Python • OpSec • Information Handling
 How I Build
 
 I prefer a simple progression:
-
+```
 Problem
    ↓
 Small Idea
@@ -250,7 +250,7 @@ Evidence
 Documentation
    ↓
 Improvement
-
+```
 I don't build large architectures just to make a project look complex.
 
 I want to understand the problem first.
@@ -261,7 +261,7 @@ Then I build only what the problem actually requires.
 ---
 
 What I'm Currently Learning
-
+```
 Linux System Administration
         ↓
 System Troubleshooting
@@ -273,7 +273,7 @@ Security Automation
 Python for Systems & Security
         ↓
 Networking & System Analysis
-
+```
 Current areas of focus:
 
 Linux administration
