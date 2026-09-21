@@ -142,8 +142,12 @@ I document why the tool exists, what it checks, how it works and where its limit
 
 ---
 
+
 ## 🧰 Selected Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github&theme=dark" alt="Selected Technologies" />
+</p>
 ---
 
 ## 📌 A Note About My Projects
