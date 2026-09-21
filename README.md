@@ -162,10 +162,6 @@ I document why the tool exists, what it checks, how it works and where its limit
 > **The objective is to understand the problem first.**
 
 ---
-<details>
-<summary>📈</summary>
-<br>
-
-![Visitas](https://komarev.com/ghpvc/?username=eduar-q&color=0e7490&style=flat-square&label=PROFILE+VIEWS)
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&logoColor=0d1117&label=&query=value&url=https://api.countapi.xyz/hit/eduar-q-github-profile/visits" />
+</p>
