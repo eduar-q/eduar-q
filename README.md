@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0e7490,100:000000&height=220&section=header" width="100%"/>
-
-<!-- BANNER CON LETRAS RARAS Y MOVIMIENTO CONTINUO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=0&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%96%93%E2%96%92%E2%96%91%E2%96%91%3E%3E%CE%9B1%E2%96%91%E2%96%93%20%7C%20%E2%9A%A1%E2%86%AF%C2%A7%E2%83%9D%E2%84%82%E2%86%AF%E2%9A%A1%20%7C%20%E2%8A%B8%E2%9A%99%EF%B8%8F%3E%3E__%3C%3C%E2%9A%99%EF%B8%8F" alt="Typing SVG" style="display: block; margin-top: -160px; z-check: 10;"/>
-</p>
-
-<!-- TYPING SVG ORIGINAL (Con letras estándar para lectura) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Linux+%7C+Defensive+Security;Python+%7C+Bash+%7C+Automation;System+Administration+%7C+Troubleshooting;Building+small+tools+for+real+problems" alt="Typing SVG" />
+<!-- Ícono Animado de Tecnología / Red Cyber -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Tech Header Animation"/>
 
 <br>
+
+<!-- Texto animado tipo consola -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E_++LINUX+SYSTEMS;%3E_++DEFENSIVE+SECURITY;%3E_++PYTHON+%7C+BASH+AUTOMATION;%3E_++BUILDING+REAL+TOOLS" alt="Typing SVG" />
+
+<br><br>
 
 <a href="https://linkedin.com/in/eduar-q-129bb5258/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,7 +19,6 @@
 </a>
 
 </div>
-
 ---
 
 ## 👤 About Me
