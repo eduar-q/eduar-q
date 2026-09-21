@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Ícono Animado de Tecnología / Red Cyber -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Tech Header Animation"/>
+<!-- Ícono Animado de Escudo / Seguridad -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/shield.svg" width="90" alt="Security Shield"/>
 
-<br>
+<br><br>
 
-<!-- Texto animado tipo consola -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E_++LINUX+SYSTEMS;%3E_++DEFENSIVE+SECURITY;%3E_++PYTHON+%7C+BASH+AUTOMATION;%3E_++BUILDING+REAL+TOOLS" alt="Typing SVG" />
+<!-- Texto animado en color Cyan -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Linux+Systems;%F0%9F%9B%A1%EF%B8%8F+Defensive+Security;%F0%9F%90%8D+Python+%26+Bash+Automation;%F0%9F%94%A7+Troubleshooting+%26+Tooling" alt="Typing SVG" />
 
 <br><br>
 
@@ -19,7 +19,6 @@
 </a>
 
 </div>
----
 
 ## 👤 About Me
 
