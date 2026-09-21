@@ -54,7 +54,7 @@ Rather than building large frameworks, I usually start with a small idea that ca
 
 ## Featured Projects
 
-### [🛡️ Linux Server Security Review](https://github.com/eduar-q/linux-server-security-review)
+### 🛡️ Linux Server Security Review](https://github.com/eduar-q/linux-server-security-review
 
 A lightweight, read-only Python tool for reviewing security-relevant configuration and system state on Linux servers.
 
