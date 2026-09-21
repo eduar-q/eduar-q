@@ -1,10 +1,15 @@
 <div align="center">
 
-<!-- Animación de Terminal / Scripting -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-f47c-4b04-b5bf-4d1c14c0247f.gif" width="380" alt="Terminal Coding Animation"/>
+<!-- Íconos de Tecnología y Ciberseguridad -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/linux.svg" width="60" alt="Linux"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terminal.svg" width="60" alt="Terminal"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/shield.svg" width="60" alt="Security"/>
+</p>
 
-<br>
-
+<!-- Texto animado estilo Opción 3 -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Linux+%7C+Defensive+Security;Python+%7C+Bash+%7C+Automation;System+Administration+%7C+Troubleshooting;Building+small+tools+for+real+problems" alt="Typing SVG" />
 
 <br><br>
