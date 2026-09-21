@@ -162,5 +162,3 @@ I document why the tool exists, what it checks, how it works and where its limit
 > **The objective is to understand the problem first.**
 
 ---
-<!-- Contador de visitas al final del archivo -->
-<img src="https://komarev.com/ghpvc/?username=eduar-q&color=0e7490&style=flat-square" alt="Visitas" />
