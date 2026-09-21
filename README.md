@@ -150,7 +150,7 @@ Simplicity before unnecessary complexity
 
 Document what matters
 
-
+```
 
 ---
 
