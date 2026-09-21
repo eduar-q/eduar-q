@@ -66,7 +66,7 @@ It collects verifiable information about users, SSH, services, scheduled tasks, 
 
 ---
 
-### [📘 The Last Manual](https://github.com/eduar-q/the-last-manual)
+### 📘 The Last Manual
 
 A small Python/Linux tool designed for situations where one administrator leaves and another person has to take over an existing system.
 
@@ -78,7 +78,7 @@ It compares documented expectations with the current system state, helping the n
 
 ---
 
-### [🛡️ Cybersecurity Foundations Lab](https://github.com/eduar-q/cybersecurity-foundations-lab)
+### 🛡️ Cybersecurity Foundations Lab
 
 A read-only Bash toolkit for practicing and documenting fundamental Linux security checks.
 
@@ -90,7 +90,7 @@ It covers areas such as network exposure, users and permissions, processes, serv
 
 ---
 
-### [🩺 El Médico Forense](https://github.com/eduar-q/medico-forense)
+### 🩺 El Médico Forense
 
 A lightweight Python tool for **initial Linux system triage**.
 
@@ -102,7 +102,7 @@ It checks selected system signals such as disk usage, memory, listening TCP port
 
 ---
 
-### [🎭 El Camuflaje](https://github.com/eduar-q/el-camuflaje)
+### 🦎 El Camuflaje
 
 A small Python tool for preparing technical information before sharing it publicly.
 
