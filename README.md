@@ -1,26 +1,28 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=180&section=header&text=%E2%97%86%20LINUX%20%E2%80%A2%20DEFENSIVE%20SECURITY%20%E2%97%86&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0e7490,100:000000&height=220&section=header&text=EDUAR%20Q.&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=LINUX%20%7C%20DEFENSIVE%20SECURITY%20%7C%20AUTOMATION&descAlignY=62&descSize=18&descColor=67e8f9"/>
 
 </div>
 
-<p align="center">
-  <strong>Linux • Defensive Security • Systems • Automation</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>Computer Engineer building small, practical tools to understand, inspect and secure Linux systems.</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Linux+%7C+Defensive+Security;Python+%7C+Bash+%7C+Automation;System+Administration+%7C+Troubleshooting;Building+small+tools+for+real+problems" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/eduar-q-129bb5258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/eduar-q">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
+<br>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/eduar-q-129bb5258/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/eduar-q">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 ## About Me
