@@ -146,9 +146,13 @@ I document why the tool exists, what it checks, how it works and where its limit
 ## 🧰 Selected Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github&theme=dark" alt="Selected Technologies" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
----
 
 ## 📌 A Note About My Projects
 
