@@ -162,3 +162,10 @@ I document why the tool exists, what it checks, how it works and where its limit
 > **The objective is to understand the problem first.**
 
 ---
+<details>
+<summary>📈</summary>
+<br>
+
+![Visitas](https://komarev.com/ghpvc/?username=eduar-q&color=0e7490&style=flat-square&label=PROFILE+VIEWS)
+
+</details>
