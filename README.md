@@ -173,7 +173,7 @@ System troubleshooting and incident-oriented analysis
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/>
 </p>
-
+```
 
 ### A Note About My Projects
 
