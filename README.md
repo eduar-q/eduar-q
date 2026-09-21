@@ -1,7 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0e7490,100:000000&height=200&section=header&text=LINUX%20%7C%20DEFENSIVE%20SECURITY%20%7C%20AUTOMATION&fontSize=30&fontColor=ffffff&fontAlignY=44&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0e7490,100:000000&height=220&section=header" width="100%"/>
 
+<!-- BANNER CON LETRAS RARAS Y MOVIMIENTO CONTINUO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=0&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%96%93%E2%96%92%E2%96%91%E2%96%91%3E%3E%CE%9B1%E2%96%91%E2%96%93%20%7C%20%E2%9A%A1%E2%86%AF%C2%A7%E2%83%9D%E2%84%82%E2%86%AF%E2%9A%A1%20%7C%20%E2%8A%B8%E2%9A%99%EF%B8%8F%3E%3E__%3C%3C%E2%9A%99%EF%B8%8F" alt="Typing SVG" style="display: block; margin-top: -160px; z-check: 10;"/>
+</p>
+
+<!-- TYPING SVG ORIGINAL (Con letras estándar para lectura) -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Linux+%7C+Defensive+Security;Python+%7C+Bash+%7C+Automation;System+Administration+%7C+Troubleshooting;Building+small+tools+for+real+problems" alt="Typing SVG" />
 
 <br>
