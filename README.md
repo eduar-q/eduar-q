@@ -150,7 +150,7 @@ Simplicity before unnecessary complexity
 
 Document what matters
 
-```
+
 
 ---
 
@@ -165,19 +165,19 @@ Linux security monitoring
 Security automation with Python and Bash
 
 System troubleshooting and incident-oriented analysis
-
+```
 
 
 ---
 
-Selected Technologies
+### Selected Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/>
 </p>
 ---
 
-A Note About My Projects
+### A Note About My Projects
 
 Most of the tools here start from problems I encounter while learning and working with Linux.
 
@@ -193,4 +193,4 @@ The objective is to understand the problem first.
 <p align="center">
   <em>Understand the system. Build the tool. Test the idea.</em>
 </p>
-```
+
