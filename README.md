@@ -32,7 +32,7 @@ I use **Python, Bash and native Linux tools** to inspect systems, automate repet
 
 > ### 💡 Core Philosophy
 > I prefer building tools around a simple question:  
-> **"What problem is actually worth solving?"**  
+> **What problem is actually worth solving?**  
 >  
 > Rather than building large frameworks, I usually start with a small idea that can be tested on a real Linux environment and expanded when there is a reason to do so.
 
